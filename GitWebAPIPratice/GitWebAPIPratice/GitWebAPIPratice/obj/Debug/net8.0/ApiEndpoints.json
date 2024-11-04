@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "GitWebAPIPractice.Controllers.NameController",
+    "Method": "Get",
+    "RelativePath": "api/Name",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
